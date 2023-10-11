@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DEV-NISHANT-HERE
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning MERN
 
 
 <!---
