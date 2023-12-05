@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DEV-NISHANT-HERE
+- 👋 Hi, I’m Nishant Tomar, an undergraduate student at IIT Bhubaneswar 
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning MERN
 
